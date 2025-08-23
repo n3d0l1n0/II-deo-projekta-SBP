@@ -1,0 +1,128 @@
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.exe.config
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.exe
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.pdb
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Iesi.Collections.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\NHibernate.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Buffers.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Data.SqlClient.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Formats.Asn1.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Memory.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Json.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.ValueTuple.dll
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Antlr3.Runtime.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.pdb
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Iesi.Collections.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\NHibernate.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Buffers.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Data.SqlClient.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Formats.Asn1.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Memory.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Json.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.ValueTuple.xml
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.AssemblyReference.cache
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.SuggestedBindingRedirects.cache
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Stanica.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Properties.Resources.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.GenerateResource.cache
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.CoreCompileInputs.cache
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.CopyComplete
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.exe
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.pdb
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.GlavnaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.OpremaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.VoziloForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.ServisVozilaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.TehnicarOdrzavaVoziloForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.SertifikatForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.IntervencijaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.UpotrebljeniResursiForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.AngazovanVatrogasacForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.SmenaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.AngazovanoLiceForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.BrojSmenaForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.UpravnikForma.resources
+C:\Users\nstoj\source\repos\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.TelefonForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.exe.config
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.exe
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\II_deo_projekta_baze_19406.pdb
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Iesi.Collections.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\NHibernate.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Buffers.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Data.SqlClient.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Formats.Asn1.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Memory.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Json.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.ValueTuple.dll
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Antlr3.Runtime.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.pdb
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\FluentNHibernate.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Iesi.Collections.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\NHibernate.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Buffers.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Data.SqlClient.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Formats.Asn1.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Memory.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Text.Json.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\bin\Debug\System.ValueTuple.xml
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.AssemblyReference.cache
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.SuggestedBindingRedirects.cache
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.AngazovanoLiceForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.AngazovanVatrogasacForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.BrojSmenaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.GlavnaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.IntervencijaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.OpremaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.SertifikatForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.ServisVozilaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.SmenaForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.TelefonForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.UpotrebljeniResursiForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Forme.UpravnikForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.Properties.Resources.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.TehnicarOdrzavaVoziloForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.VoziloForma.resources
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.GenerateResource.cache
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.CoreCompileInputs.cache
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.csproj.CopyComplete
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.exe
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.pdb
+C:\Users\nstoj\Desktop\FAKS\VI semestar\SBP\II_deo_projekta_baze_19406\II_deo_projekta_baze_19406\obj\Debug\II_deo_projekta_baze_19406.StanicaForma.resources

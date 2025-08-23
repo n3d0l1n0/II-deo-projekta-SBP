@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace II_deo_projekta_baze_19406.Entiteti
+{
+    public class Odrzavanje
+    {
+        public virtual int Id { get; protected set; }
+        public virtual Vozilo Vozilo { get; set; }
+        public virtual AngazovanoLice Tehnicar { get; set; }
+    }
+}
