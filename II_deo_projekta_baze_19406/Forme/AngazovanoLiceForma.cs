@@ -144,7 +144,6 @@ namespace II_deo_projekta_baze_19406.Forme
             chbTehnicar.Checked = false;
 
             numSertifikat.Value = 0;
-            numIntervencije.Value = 0;
             txtStepenSpremnosti.Text = string.Empty;
             cmbNivoObucenosti.SelectedIndex = -1;
             txtEvidencijaPoziva.Text = string.Empty;

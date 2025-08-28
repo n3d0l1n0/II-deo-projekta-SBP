@@ -71,6 +71,8 @@
             this.columnHeader31 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader32 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader33 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader48 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader49 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabVolonteri = new System.Windows.Forms.TabPage();
             this.listViewVolonteri = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -110,8 +112,6 @@
             this.cmbNivoObucenosti = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
             this.txtStepenSpremnosti = new System.Windows.Forms.TextBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.numIntervencije = new System.Windows.Forms.NumericUpDown();
             this.label9 = new System.Windows.Forms.Label();
             this.numSertifikat = new System.Windows.Forms.NumericUpDown();
             this.chbTehnicar = new System.Windows.Forms.CheckBox();
@@ -135,8 +135,6 @@
             this.txtIme = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txtMaticniBroj = new System.Windows.Forms.TextBox();
-            this.columnHeader48 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader49 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabPrikazLica.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabDispeceri.SuspendLayout();
@@ -147,7 +145,6 @@
             this.gbTehnicar.SuspendLayout();
             this.gbDispeceri.SuspendLayout();
             this.gbVatrogasac.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numIntervencije)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSertifikat)).BeginInit();
             this.SuspendLayout();
             // 
@@ -448,6 +445,16 @@
             // 
             this.columnHeader33.Text = "Stanica";
             this.columnHeader33.Width = 120;
+            // 
+            // columnHeader48
+            // 
+            this.columnHeader48.Text = "Specijalizacija";
+            this.columnHeader48.Width = 120;
+            // 
+            // columnHeader49
+            // 
+            this.columnHeader49.Text = "Podaci o alatima";
+            this.columnHeader49.Width = 170;
             // 
             // tabVolonteri
             // 
@@ -807,8 +814,6 @@
             this.gbVatrogasac.Controls.Add(this.cmbNivoObucenosti);
             this.gbVatrogasac.Controls.Add(this.label11);
             this.gbVatrogasac.Controls.Add(this.txtStepenSpremnosti);
-            this.gbVatrogasac.Controls.Add(this.label10);
-            this.gbVatrogasac.Controls.Add(this.numIntervencije);
             this.gbVatrogasac.Controls.Add(this.label9);
             this.gbVatrogasac.Controls.Add(this.numSertifikat);
             this.gbVatrogasac.Location = new System.Drawing.Point(458, 111);
@@ -822,7 +827,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(17, 211);
+            this.label12.Location = new System.Drawing.Point(18, 159);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(119, 16);
             this.label12.TabIndex = 7;
@@ -836,7 +841,7 @@
             "Osnovni",
             "Srednji",
             "Specijalni"});
-            this.cmbNivoObucenosti.Location = new System.Drawing.Point(15, 230);
+            this.cmbNivoObucenosti.Location = new System.Drawing.Point(15, 178);
             this.cmbNivoObucenosti.Name = "cmbNivoObucenosti";
             this.cmbNivoObucenosti.Size = new System.Drawing.Size(121, 24);
             this.cmbNivoObucenosti.TabIndex = 6;
@@ -844,7 +849,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(17, 157);
+            this.label11.Location = new System.Drawing.Point(13, 98);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(136, 16);
             this.label11.TabIndex = 5;
@@ -854,29 +859,11 @@
             // txtStepenSpremnosti
             // 
             this.txtStepenSpremnosti.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.txtStepenSpremnosti.Location = new System.Drawing.Point(15, 176);
+            this.txtStepenSpremnosti.Location = new System.Drawing.Point(16, 120);
             this.txtStepenSpremnosti.MaxLength = 30;
             this.txtStepenSpremnosti.Name = "txtStepenSpremnosti";
             this.txtStepenSpremnosti.Size = new System.Drawing.Size(121, 22);
             this.txtStepenSpremnosti.TabIndex = 4;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(13, 101);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(119, 16);
-            this.label10.TabIndex = 3;
-            this.label10.Text = "Broj intervencija";
-            // 
-            // numIntervencije
-            // 
-            this.numIntervencije.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.numIntervencije.Location = new System.Drawing.Point(16, 121);
-            this.numIntervencije.Name = "numIntervencije";
-            this.numIntervencije.ReadOnly = true;
-            this.numIntervencije.Size = new System.Drawing.Size(120, 22);
-            this.numIntervencije.TabIndex = 2;
             // 
             // label9
             // 
@@ -1091,16 +1078,6 @@
             this.txtMaticniBroj.Size = new System.Drawing.Size(171, 22);
             this.txtMaticniBroj.TabIndex = 0;
             // 
-            // columnHeader48
-            // 
-            this.columnHeader48.Text = "Specijalizacija";
-            this.columnHeader48.Width = 120;
-            // 
-            // columnHeader49
-            // 
-            this.columnHeader49.Text = "Podaci o alatima";
-            this.columnHeader49.Width = 170;
-            // 
             // AngazovanoLiceForma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -1130,7 +1107,6 @@
             this.gbDispeceri.PerformLayout();
             this.gbVatrogasac.ResumeLayout(false);
             this.gbVatrogasac.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numIntervencije)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSertifikat)).EndInit();
             this.ResumeLayout(false);
 
@@ -1172,8 +1148,6 @@
         private System.Windows.Forms.ComboBox cmbNivoObucenosti;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox txtStepenSpremnosti;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.NumericUpDown numIntervencije;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.NumericUpDown numSertifikat;
         private System.Windows.Forms.GroupBox gbTehnicar;
